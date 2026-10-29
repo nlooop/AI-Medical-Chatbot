@@ -65,7 +65,7 @@ tfidf = vectorizer.fit_transform(X).toarray()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Infectious-Disease-Chatbot.git
+   git clone https://github.com/nlooop/AI-Medical-Chatbot.git
    ```
 2. Install required libraries:
    ```bash
